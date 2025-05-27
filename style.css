@@ -1,0 +1,27 @@
+body {
+  background-color: #f0f0f0;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.clock-container {
+  background: #fff;
+  padding: 30px 50px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+#time {
+  font-size: 48px;
+  color: #333;
+}
+
+.tagline {
+  margin-top: 10px;
+  font-style: italic;
+  color: #666;
+}
